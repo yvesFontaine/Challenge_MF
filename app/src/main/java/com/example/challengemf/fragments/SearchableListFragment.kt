@@ -1,0 +1,7 @@
+package com.example.challengemf.fragments
+
+import androidx.fragment.app.Fragment
+
+class SearchableListFragment : Fragment() {
+
+}

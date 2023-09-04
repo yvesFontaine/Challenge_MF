@@ -1,5 +1,6 @@
 package com.example.challengemf.retrofit
 
+import com.example.challengemf.model.Character
 import com.example.challengemf.model.Episode
 import com.example.challengemf.model.Location
 import retrofit2.Call
